@@ -30,6 +30,49 @@
 - 💬 Ask me about **[Building software solutions]**
 - ⚡ Fun fact: **[I'm kinda weird]**
 
+🚀 Projects I Built
+<div align="center">
+  <!-- Project 1 -->
+  <a href="https://github.com/ableez/scribe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ableez&repo=project-1&theme=radical" />
+  </a>
+  <p>
+    <a href="https://myscribe.vercel.app">
+      <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    </a>
+    <a href="https://github.com/ableez/scribe">
+      <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+    </a>
+  </p>
+  <p>✳ Asterisk: Printing service provider platform built with Next.js, Tailwind CSS, and Stripe integration</p>
+  <!-- Project 2 -->
+  <a href="https://github.com/ableez/asterisk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-2&theme=radical" />
+  </a>
+  <p>
+    <a href="https://asterisk_da.netlify.app">
+      <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+    </a>
+    <a href="https://github.com/ableez/asterisk">
+      <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+    </a>
+  </p>
+  <p>📱 Chime: Social media mobile app</p>
+  <!-- Project 3 -->
+  <a href="https://github.com/ableez/chime">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-3&theme=radical" />
+  </a>
+  <p>
+    <a href="https://github.com/ableez/chime">
+      <img src="https://img.shields.io/badge/Live_Demo-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Live Demo" />
+    </a>
+    <a href="https://github.com/ableez/chime">
+      <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+    </a>
+  </p>
+</div>
+<!-- Rest of the previous content remains the same -->
+
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
 <p align="center">
