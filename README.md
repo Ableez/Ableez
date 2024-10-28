@@ -6,13 +6,13 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/abdullahi-ahmed-700b371a7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/ableezz">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://dev.to/yourusername">
+  <a href="https://dev.to/ableez">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
 </p>
@@ -24,11 +24,11 @@
 
 <!-- About Me Section -->
 ## 🧐 About Me
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm currently learning **[Technology]**
+- 🔭 I'm currently working on **[Asterisk]**
+- 🌱 I'm currently learning **[Machine Learning]**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **[Your Expertise]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+- 💬 Ask me about **[Building software solutions]**
+- ⚡ Fun fact: **[I'm kinda weird]**
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
@@ -42,17 +42,17 @@
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ableez&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ableez&theme=radical" alt="GitHub Streak" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ableez&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- Recent Activity -->
@@ -65,13 +65,13 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ableez&color=blueviolet" alt="Profile Views" />
 </p>
 
 <!-- Support -->
 ## ☕ Support
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername">
+  <a href="https://www.buymeacoffee.com/ableez">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
