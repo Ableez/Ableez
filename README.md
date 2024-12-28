@@ -5,8 +5,8 @@
 </div>
 
 
-<div align="center">
-<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fableezz">
+<div align="center"><div align="center">
+  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/ableez">
 </div>
 
 <!-- Social Links -->
