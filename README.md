@@ -4,8 +4,10 @@
   <p>🚀 Full Stack Developer | 💡 Open Source Enthusiast | 🌱 Lifelong Learner</p>
 </div>
 
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/ableez/:repo">
 
+<div align="center">
+<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fableezz">
+</div>
 
 <!-- Social Links -->
 <p align="center">
