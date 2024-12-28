@@ -1,8 +1,11 @@
 <!-- Header Banner -->
 <div align="center">
-  <h1>👋 Hi there, I'm [Your Name]</h1>
+  <h1>👋 Hi there, I'm Abdullahi</h1>
   <p>🚀 Full Stack Developer | 💡 Open Source Enthusiast | 🌱 Lifelong Learner</p>
 </div>
+
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/ableez/:repo">
+
 
 <!-- Social Links -->
 <p align="center">
