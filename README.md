@@ -4,29 +4,6 @@
   <p>🚀 Full Stack Developer | 💡 Open Source Enthusiast | 🌱 Lifelong Learner</p>
 </div>
 
-
-<div align="center"><div align="center">
-  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/ableez">
-</div>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://linkedin.com/in/abdullahi-ahmed-700b371a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/ableezz">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://dev.to/ableez">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
-</p>
-
-<!-- Animated Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=435&lines=Building+awesome+web+applications;Contributing+to+open+source;Learning+new+technologies" alt="Typing SVG" />
-</p>
-
 <!-- About Me Section -->
 ## 🧐 About Me
 - 🔭 I'm currently working on **[Asterisk]**
@@ -34,49 +11,6 @@
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **[Building software solutions]**
 - ⚡ Fun fact: **[I'm kinda weird]**
-
-🚀 Projects I Built
-<div align="center">
-  <!-- Project 1 -->
-  <a href="https://github.com/ableez/scribe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ableez&repo=project-1&theme=radical" />
-  </a>
-  <p>
-    <a href="https://myscribe.vercel.app">
-      <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-    </a>
-    <a href="https://github.com/ableez/scribe">
-      <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-    </a>
-  </p>
-  <p>✳ Asterisk: Printing service provider platform built with Next.js, Tailwind CSS, and Stripe integration</p>
-  <!-- Project 2 -->
-  <a href="https://github.com/ableez/asterisk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-2&theme=radical" />
-  </a>
-  <p>
-    <a href="https://asterisk_da.netlify.app">
-      <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
-    </a>
-    <a href="https://github.com/ableez/asterisk">
-      <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-    </a>
-  </p>
-  <p>📱 Chime: Social media mobile app</p>
-  <!-- Project 3 -->
-  <a href="https://github.com/ableez/chime">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-3&theme=radical" />
-  </a>
-  <p>
-    <a href="https://github.com/ableez/chime">
-      <img src="https://img.shields.io/badge/Live_Demo-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Live Demo" />
-    </a>
-    <a href="https://github.com/ableez/chime">
-      <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-    </a>
-  </p>
-</div>
-<!-- Rest of the previous content remains the same -->
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
