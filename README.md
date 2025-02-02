@@ -6,11 +6,11 @@
 
 <!-- About Me Section -->
 ## 🧐 About Me
-- 🔭 I'm currently working on **[Asterisk]**
-- 🌱 I'm currently learning **[Machine Learning]**
+- 🔭 I'm currently working on **Asterisk**
+- 🌱 I'm currently learning **Machine Learning**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **[Building software solutions]**
-- ⚡ Fun fact: **[I'm kinda weird]**
+- 💬 Ask me about **Building software solutions**
+- ⚡ Fun fact: **I'm kinda weird**
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
