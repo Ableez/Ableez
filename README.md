@@ -29,7 +29,7 @@
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ableez&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ableez&theme=radical" alt="GitHub Streak" />
 </p>
 
 <!-- Top Languages -->
