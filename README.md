@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
   <h1>👋 Hi there, I'm Abdullahi</h1>
-  <p>🚀 Full Stack Developer | 💡 Open Source Enthusiast | 🌱 Lifelong Learner</p>
+  <p>🚀 Full Stack Developer | 💡 Machine Learning Enthusiast | 🌱 Lifelong Learner</p>
 </div>
 
 <!-- About Me Section -->
