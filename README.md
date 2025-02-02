@@ -2,6 +2,10 @@
 <div align="center">
   <h1>👋 Hi there, I'm Abdullahi</h1>
   <p>🚀 Full Stack Developer | 💡 Machine Learning Enthusiast | 🌱 Lifelong Learner</p>
+  <!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ableez&color=blueviolet" alt="Profile Views" />
+</p>
 </div>
 
 <!-- About Me Section -->
@@ -34,21 +38,9 @@
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ableez&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ableez&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- Recent Activity -->
-## 🏃‍♂️ Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR in [Repository]
-2. 💪 Opened PR in [Repository]
-3. 🗣 Commented on [Issue]
-<!--END_SECTION:activity-->
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ableez&color=blueviolet" alt="Profile Views" />
-</p>
 
 <!-- Support -->
 ## ☕ Support
