@@ -3,18 +3,10 @@
   <h1>👋 Hi there, I'm Abdullahi</h1>
   <p>🚀 Full Stack Developer | 💡 Machine Learning Enthusiast | 🌱 Lifelong Learner</p>
   <!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ableez&color=blueviolet" alt="Profile Views" />
-</p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Ableez&color=blueviolet" alt="Profile Views" />
+  </p>
 </div>
-
-<!-- About Me Section -->
-## 🧐 About Me
-- 🔭 I'm currently working on **Asterisk**
-- 🌱 I'm currently learning **Machine Learning**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Building software solutions**
-- ⚡ Fun fact: **I'm kinda weird**
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
@@ -24,6 +16,14 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+<!-- About Me Section -->
+## 🧐 About Me
+- 🔭 I'm currently working on **Asterisk**
+- 🌱 I'm currently learning **Machine Learning**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Building software solutions**
+- ⚡ Fun fact: **I'm kinda weird**
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
