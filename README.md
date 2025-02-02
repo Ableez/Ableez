@@ -47,7 +47,7 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?Ableez=Ableez&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ableez&color=blueviolet" alt="Profile Views" />
 </p>
 
 <!-- Support -->
